@@ -1,0 +1,146 @@
+[
+  {
+    "id": "fox-velvet",
+    "animal": "Fox",
+    "title": "Velvet Fox",
+    "vibe": "glossy editorial portrait",
+    "aspectRatio": "4:5",
+    "prompt": "Transform the uploaded selfie into a stylish red fox portrait with velvet fur, warm amber eyes, and glossy magazine lighting. Keep the person's identity, face shape, gaze, and expression recognisable. Make it playful, premium, and highly shareable."
+  },
+  {
+    "id": "fox-fairytale",
+    "animal": "Fox",
+    "title": "Storybook Fox",
+    "vibe": "storybook woodland charm",
+    "aspectRatio": "3:4",
+    "prompt": "Reimagine the uploaded selfie as a whimsical storybook fox with soft rust fur, hand-painted textures, and enchanted forest mood. Preserve the person's facial identity so it still feels like them. Keep it charming, funny, and polished."
+  },
+  {
+    "id": "dog-fluffy",
+    "animal": "Dog",
+    "title": "Fluffy Dog",
+    "vibe": "cuddly cloud-soft remix",
+    "aspectRatio": "4:5",
+    "prompt": "Turn the uploaded selfie into a fluffy dog version with soft cream fur, a friendly smile, and bright expressive eyes. Keep the person recognisable through the face structure and attitude. Make it cute, funny, and sticker-worthy."
+  },
+  {
+    "id": "dog-comic",
+    "animal": "Dog",
+    "title": "Comic Dog",
+    "vibe": "bold cartoon energy",
+    "aspectRatio": "1:1",
+    "prompt": "Transform the uploaded selfie into a comic-style dog portrait with punchy outlines, bold colors, and meme-ready expression. Preserve the person's identity and overall face silhouette. Make it energetic, humorous, and social-first."
+  },
+  {
+    "id": "cat-regal",
+    "animal": "Cat",
+    "title": "Regal Cat",
+    "vibe": "luxury cat stare-down",
+    "aspectRatio": "4:5",
+    "prompt": "Convert the uploaded selfie into a regal cat portrait with plush fur, sharp whiskers, and high-fashion lighting. Keep the person's facial identity clearly visible within the cat transformation. The result should feel polished, elegant, and slightly ridiculous."
+  },
+  {
+    "id": "cat-chaos",
+    "animal": "Cat",
+    "title": "Chaos Cat",
+    "vibe": "mischief meme face",
+    "aspectRatio": "3:4",
+    "prompt": "Turn the uploaded selfie into a chaotic internet cat with exaggerated side-eye, fluffy fur, and playful meme energy. Preserve the person's recognisable face and attitude. Keep it cute, weird, and instantly shareable."
+  },
+  {
+    "id": "elephant-carnival",
+    "animal": "Elephant",
+    "title": "Carnival Elephant",
+    "vibe": "joyful festival color",
+    "aspectRatio": "9:16",
+    "prompt": "Transform the uploaded selfie into a carnival elephant portrait with painted ears, vibrant colors, and celebratory energy. Keep the person recognisable even with the elephant features. Make it cinematic, funny, and warm."
+  },
+  {
+    "id": "elephant-plush",
+    "animal": "Elephant",
+    "title": "Plush Elephant",
+    "vibe": "toy-like soft surrealism",
+    "aspectRatio": "5:4",
+    "prompt": "Reimagine the uploaded selfie as a plush elephant with velvety fabric texture, oversized ears, and soft studio lighting. Keep the person's face identity intact inside the transformation. The image should feel adorable, surreal, and polished."
+  },
+  {
+    "id": "raccoon-bandit",
+    "animal": "Raccoon",
+    "title": "Bandit Raccoon",
+    "vibe": "midnight troublemaker mood",
+    "aspectRatio": "3:4",
+    "prompt": "Turn the uploaded selfie into a raccoon portrait with bandit-mask markings, glossy eyes, and cheeky late-night energy. Preserve the person's identity and facial expression. Keep it cinematic and mischievous."
+  },
+  {
+    "id": "otter-surf",
+    "animal": "Otter",
+    "title": "Surf Otter",
+    "vibe": "playful beach editorial",
+    "aspectRatio": "4:5",
+    "prompt": "Transform the uploaded selfie into a cool otter portrait with wet fur texture, breezy beach light, and playful surfer attitude. The result should still clearly resemble the person. Make it bright, funny, and charming."
+  },
+  {
+    "id": "panda-dream",
+    "animal": "Panda",
+    "title": "Dream Panda",
+    "vibe": "soft sleepy sweetness",
+    "aspectRatio": "1:1",
+    "prompt": "Convert the uploaded selfie into a dreamy panda portrait with soft monochrome fur, rounded features, and sleepy cozy expression. Keep the person recognisable through the face and mood. Make it cute and highly lovable."
+  },
+  {
+    "id": "bunny-rave",
+    "animal": "Bunny",
+    "title": "Rave Bunny",
+    "vibe": "electric pastel nightlife",
+    "aspectRatio": "9:16",
+    "prompt": "Transform the uploaded selfie into a rave bunny with neon lighting, pastel fur, and energetic nightlife styling. Preserve the person's facial identity so the remix still feels personal. Make it playful, weird, and social-ready."
+  },
+  {
+    "id": "tiger-vinyl",
+    "animal": "Tiger",
+    "title": "Vinyl Tiger",
+    "vibe": "retro poster boldness",
+    "aspectRatio": "5:4",
+    "prompt": "Turn the uploaded selfie into a tiger portrait with clean stripes, retro poster color treatment, and powerful eye contact. Keep the person's identity recognisable beneath the tiger features. Make it bold and unforgettable."
+  },
+  {
+    "id": "bear-camp",
+    "animal": "Bear",
+    "title": "Camp Bear",
+    "vibe": "cozy outdoors warmth",
+    "aspectRatio": "4:5",
+    "prompt": "Reimagine the uploaded selfie as a bear portrait with cozy fur, campfire warmth, and gentle funny confidence. Preserve the person's identity and expression. Make it inviting, warm, and humorous."
+  },
+  {
+    "id": "duck-sticker",
+    "animal": "Duck",
+    "title": "Sticker Duck",
+    "vibe": "crispy reaction-image chaos",
+    "aspectRatio": "1:1",
+    "prompt": "Transform the uploaded selfie into a duck portrait with bright bill, smooth feathers, and exaggerated sticker-like reaction energy. Keep the person's face recognisable. Make it simple, punchy, and ideal for reactions."
+  },
+  {
+    "id": "owl-midnight",
+    "animal": "Owl",
+    "title": "Midnight Owl",
+    "vibe": "mysterious moonlit glamour",
+    "aspectRatio": "3:4",
+    "prompt": "Convert the uploaded selfie into a midnight owl portrait with feathery textures, moonlit tones, and intense eyes. Preserve the person's facial identity within the owl form. Make it moody, elegant, and strange in a good way."
+  },
+  {
+    "id": "koala-pastel",
+    "animal": "Koala",
+    "title": "Pastel Koala",
+    "vibe": "soft candy-color calm",
+    "aspectRatio": "4:5",
+    "prompt": "Transform the uploaded selfie into a pastel koala portrait with soft fuzzy ears, candy-colored highlights, and calm expression. The person should remain clearly recognisable. Keep it sweet, polished, and very shareable."
+  },
+  {
+    "id": "llama-disco",
+    "animal": "Llama",
+    "title": "Disco Llama",
+    "vibe": "glam camp sparkle",
+    "aspectRatio": "9:16",
+    "prompt": "Reimagine the uploaded selfie as a disco llama with glossy fur, sequined party styling, and confident glam attitude. Preserve the person's identity and facial structure. Make it funny, camp, and impossible to ignore."
+  }
+]
